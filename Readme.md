@@ -1,4 +1,4 @@
-First, you need to install the necessary packages for this code to work. You can install them using the following commands:
+[guide](https://github.com/nesquickwe/Behest-a-w-aimbot-fr/blob/main/Extra.txt)  First, you need to install the necessary packages for this code to work. You can install them using the following commands:
 pip install opencv-python
 pip install numpy
 pip install torch
