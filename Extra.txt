@@ -1,0 +1,11 @@
+Save the provided code as Ghost_Aimbot.py in a new directory.
+Install the required packages using pip, as I mentioned earlier.
+Clone the YOLOv5 repository from GitHub and extract it in a directory called yolov5 within the same directory as Ghost_Aimbot.py.
+Create a folder called imagesyolo in the same directory where Ghost_Aimbot.py is located.
+Open Ghost_Aimbot.py in a Python editor and modify the hotkeys, if necessary.
+Run Ghost_Aimbot.py using a Python interpreter.
+Once the program is running, press the Ctrl + T keys to take a screenshot of the current window.
+The program will then detect objects in the screenshot using the YOLOv5 object detection model and display the bounding boxes around the detected objects.
+The cropped screenshot will be saved in the imagesyolo folder.
+To train the aimbot, press the Ctrl + R keys. However, the training algorithm for the aimbot is not yet implemented in the current version of the code.
+Remember to follow these steps carefully and don't come crying to me if you can't make it work.
